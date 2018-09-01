@@ -1,2 +1,2 @@
-# UILocalizedIndexedCollation
-类似通讯录排序
+# A~~Z   排序
+类似通讯录分组排序
